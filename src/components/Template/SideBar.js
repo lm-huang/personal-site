@@ -37,6 +37,7 @@ const SideBar = () => (
                         <Link to="/resume" className="button">Learn More</Link> :
                         <Link to="/about" className="button">About Me</Link>}
                 </li>
+                <button onClick={downloadPDF}>Download Resume</button>
             </ul>
             <img src={`${PUBLIC_URL}/images/projects/qr.png`}/>
         </section>
@@ -47,5 +48,15 @@ const SideBar = () => (
         </section>
     </section>
 );
+
+const downloadPDF = () => {
+    const pdfUrl = `${PUBLIC_URL}/file/NEU-LimingHuang-MSCS.pdf`;
+    const link = document.createElement('a');
+    link.href = pdfUrl;
+    link.setAttribute('download', 'LimingHuang-NEU-MSCS.pdf');
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+};
 
 export default SideBar;
