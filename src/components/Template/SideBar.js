@@ -19,6 +19,7 @@ const SideBar = () => (
         </section>
 
         <section className="blurb">
+
             <h2>About</h2>
             <p>
                 Embarking on a career transition by pursuing a Master's in Computer Science at Northeastern University,
@@ -37,6 +38,7 @@ const SideBar = () => (
                         <Link to="/about" className="button">About Me</Link>}
                 </li>
             </ul>
+            <img src={`${PUBLIC_URL}/images/projects/qr.png`}/>
         </section>
 
         <section id="footer">

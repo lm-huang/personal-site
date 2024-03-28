@@ -28,8 +28,8 @@ const projects = [
         url: '',
         summary: 'A Canvas-like course management system',
         highlights: [
-            'Implemented front-end interaction using React, managed course data with React Redux, and deployed on Netlify',
-            'Achieved CRUD for course data provided by MongDB Atlas deployed on Render',
+            'Implemented front-end interaction using React, managed course data with React Redux',
+            'Utilized AWS CloudFront to deliver content for global campuses and implemented Application Load Balancer and Auto Scaling Group within the VPC to manage concurrent requests and secure network during open online courses registration',
         ],
     },
 ];
