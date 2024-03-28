@@ -28,11 +28,11 @@ I will regularly update this platform with my algorithm notes, technical insight
 - [The Forest Unseen: A Year’s Watch in Nature](https://www.goodreads.com/book/show/11797368-the-forest-unseen)
 - [A Short History of Chinese Philosophy](https://www.goodreads.com/book/show/31907.A_Short_History_of_Chinese_Philosophy)
 - [ The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)
-- [上帝掷骰子吗？：量子物理史话 Does God Play Dice?: A History of Quantum Physics](https://www.goodreads.com/book/show/52318685)
-- [ 生命的起源 The Origin of Life](https://www.goodreads.com/book/show/60053348)
+- [上帝掷骰子吗？：量子物理史话 / Does God Play Dice? - A History of Quantum Physics](https://www.goodreads.com/book/show/52318685)
+- [ 生命的起源 / The Origin of Life](https://www.goodreads.com/book/show/60053348)
 - [ The Gene: An Intimate History](https://www.goodreads.com/book/show/27276428-the-gene)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
-- [ 这里是中国 Hi, I'm China](https://www.goodreads.com/book/show/54503414-2019)
+- [ 这里是中国 / Hi, I'm China](https://www.goodreads.com/book/show/54503414-2019)
 
 # My Top Five Curiosities About the United States
 
