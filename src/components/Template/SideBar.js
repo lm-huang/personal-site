@@ -32,11 +32,6 @@ const SideBar = () => (
                 I have personally benefited from it once, now actively contributing to this transformative journey.
             </p>
             <ul className="actions">
-                <li>
-                    {!window.location.pathname.includes('/resume') ?
-                        <Link to="/resume" className="button">Learn More</Link> :
-                        <Link to="/about" className="button">About Me</Link>}
-                </li>
                 <button onClick={downloadPDF}>Download Resume</button>
             </ul>
             <img src={`${PUBLIC_URL}/images/projects/qr.png`}/>
