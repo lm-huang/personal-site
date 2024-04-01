@@ -26,9 +26,10 @@ const projects = [
         name: 'Kanbas',
         position: 'Full Stack',
         url: '',
-        summary: 'A Canvas-like course management system',
+        summary: 'A Canvas-like course management system capable of global courses distribution and handling spikes in traffic',
         highlights: [
             'Implemented front-end interaction using React, managed course data with React Redux',
+            'Containerized components through Docker images and built pipelines to enable CI/CD',
             'Utilized AWS CloudFront to deliver content for global campuses and implemented Application Load Balancer and Auto Scaling Group within the VPC to manage concurrent requests and secure network during open online courses registration',
         ],
     },
