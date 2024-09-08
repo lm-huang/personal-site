@@ -1,9 +1,5 @@
 const courses = [
   {
-    title: 'Discrete Structures',
-    number: 'CS 5002',
-  },
-  {
     title: 'Object-Oriented Design',
     number: 'CS 5004',
   },
@@ -22,6 +18,10 @@ const courses = [
   {
     title: 'Fundamentals of Cloud Computing',
     number: 'CS 6620',
+  },
+  {
+    title: 'Building Scalable Distributed System',
+    number: 'CS 6650',
   },
 ];
 

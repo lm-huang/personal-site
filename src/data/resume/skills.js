@@ -20,11 +20,6 @@ const skills = [
     category: ['Web Development', 'Java'],
   },
   {
-    title: 'Spring Security',
-    competency: 3,
-    category: ['Web Development', 'Java'],
-  },
-  {
     title: 'Spring MVC',
     competency: 4,
     category: ['Web Development', 'Java'],

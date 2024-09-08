@@ -7,13 +7,13 @@ const degrees = [
   },
   {
     school: 'University of International Business and Economics, China',
-    degree: 'Master of Finance in Finance',
+    degree: 'Master of Finance in Financial Engineering',
     link: 'http://english.uibe.edu.cn/',
     year: '2015 - 2017',
   },
   {
     school: 'China University of Geosciences, China',
-    degree: 'Bachelor of Business in Marketing',
+    degree: 'Computer Science',
     link: 'https://en.cug.edu.cn/',
     year: '2011 - 2015',
   },

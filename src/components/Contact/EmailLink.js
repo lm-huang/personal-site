@@ -13,17 +13,6 @@ const messages = [
   'Love dinosaurs',
   'and whales',
   'but I cannot choose to learn zoology',
-  'because I need to fund my family once I graduate',
-  'so I chose to major in finance',
-  'I did well',
-  'I won appraisal from my clients and I ranked 1st in the performance evaluation',
-  'but the real estate private fund industry in China has been ruined',
-  'I reached the endpoint of my career when I just started',
-  'so now I am learning computer science',
-  'honestly',
-  'I did not know I can be so into web development when I made this decision',
-  'oh please',
-  'just allow me to find an intern',
   'may everyone has the true liberty',
 ];
 

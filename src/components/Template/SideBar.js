@@ -22,8 +22,8 @@ const SideBar = () => (
 
             <h2>About</h2>
             <p>
-                Embarking on a career transition by pursuing a Master's in Computer Science at Northeastern University,
-                previously a finance professional with five years in front-office roles. Seeking opportunities to contribute technical proficiency and business thinking in a dynamic
+                Pursuing a Master's in Computer Science at Northeastern University,
+                previously a researcher in Securities company to optimize trading strategies. Seeking opportunities to contribute technical proficiency and business thinking in a dynamic
                 environment.
             </p>
             <p>

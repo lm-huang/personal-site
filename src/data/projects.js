@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: '911',
+    subtitle: 'Analysing the impact on OHCA(out-of-hospital cardiac arrest) survival rates based on EMS data from NEMSIS',
+    image: '/images/projects/911.png',
+    date: '2024-01-20',
+    link: 'https://github.com/lm-huang/OHCA',
+    desc:
+        'Analysing the impact on OHCA(out-of-hospital cardiac arrest) survival rates based on EMS data from NEMSIS',
+  },
+  {
     title: 'GuardianAt12',
     subtitle: 'An emergency express STD/HIV prophylaxis application for LGBTQ+ in China to minimize regrets ',
     image: '/images/projects/delivery.png',
