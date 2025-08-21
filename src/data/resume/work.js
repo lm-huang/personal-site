@@ -13,15 +13,27 @@
  */
 const work = [
   {
-    name: '1 Thing',
-    position: 'Intern | Backend Software Engineer ',
-    url: 'https://www.1thing.org/',
-    startDate: '2024-08-01',
-    endDate: '2024-11-01',
+    name: 'Amazon - Ads Creative X',
+    position: 'Intern | Software Engineer ',
+    url: '',
+    startDate: '2025-06-01',
+    endDate: '2025-08-22',
     highlights: [
-      'Created a registration system for therapy kits integrated with RESTful APIs by Node.js serving more than 800 clients',
-      'Automated real-time data transformation and analysis by AWS lambda to enable scalable serverless management, reducing monthly cost by 54% compared to a provisioned instance',
-      'Performed cleaning of the data using PostgreSQL on Linux servers, achieving a 27% reduction in query latency',
+      'Built scalable data transformation and querying workflows using AWS CDK and CloudFormation, cutting engineering turnaround time from months to minutes',
+      'Spearheaded a cross-team work of engineering the EMR cluster template and GPU-based training docker image, enabling data scientists to access and process advertising datasets in compliance with Amazon security standards',
+      'Engineered 700GB+ of production data using AWS Glue for ETL and SageMaker for training, integrated with MLflow to automate experiment tracking',
+    ],
+  },
+  {
+    name: 'IpserLab',
+    position: 'Intern | Backend Software Engineer',
+    url: '',
+    startDate: '2017-07-01',
+    endDate: '2018-06-30',
+    highlights: [
+      'Created a registration system for therapy kits integrated with RESTful APIs by Node.js, serving more than 800 clients',
+      'Automated real-time data transformation and analysis by AWS Lambda to enable a scalable serverless architecture, reducing monthly cost by 54%',
+      'Containerized backend services with Docker and orchestrated deployments using Kubernetes, streamlining CI/CD, workflows, and ensuring zero-downtime releases',
     ],
   },
   {
@@ -31,22 +43,9 @@ const work = [
     startDate: '2022-07-01',
     endDate: '2022-10-01',
     highlights: [
-      'Developed and maintained customized software solutions on-site in collaboration with clients',
-      'Restructured the workflow by splitting serial processes into parallel branches with a parallel gateway, using ConcurrentHashMap for thread-safe context management and implementing a merge node for result aggregation, achieving an 81% decrease in execution time',
-      'Developed a query interface leveraging Elastic Search to retrieve Rowkeys for HBase, resulting in a 73% improvement in query speed',
-      'Addressed the need for real-time message handling over 1,000,000 per second by using Kafka to process user actions and inventory updates instantaneously',
-    ],
-  },
-  {
-    name: 'Caitong Securities',
-    position: 'Quantitative Research | Research Institute',
-    url: 'https://www.ctsec.com/',
-    startDate: '2017-07-01',
-    endDate: '2018-06-30',
-    highlights: [
-      'Designed and implemented a Deep Q-Network (DQN)-based index timing strategy. Tested the sensitivity of the discount factor gamma and performed parameter optimization. Achieved a Sharpe ratio of 1.05 over three years on the CSI 1000 index',
-      'Optimized the multi-factor model by designing factor layering to address non-linear characteristics of the factors. Backtested the framework resulting in a 126.40% improvement in return and a 20.73% reduction in maximum drawdown',
-      '•\tUtilized Pandas and NumPy for data processing, and managed parallel computing using the multiprocessing module, achieving a reduction in strategy execution time from 2 hours to 45 minutes on Alibaba Cloud',
+      'Restructured the workflow by splitting serial processes into parallel branches with an inclusive gateway, using ConcurrentHashMap for thread-safe cache management, achieving an 80% decrease in execution time',
+      'Injected process services managed by Activiti into Spring Boot to enable cross-team collaboration by modularization',
+      'Implemented a custom Kafka interceptor to enrich messages with dynamic field annotations, ensuring real-time processing at a rate exceeding 100,000 requests per second',
     ],
   },
 ];

@@ -22,9 +22,7 @@ const SideBar = () => (
 
             <h2>About</h2>
             <p>
-                Pursuing a Master's in Computer Science at Northeastern University,
-                previously a researcher in Securities company to optimize trading strategies. Seeking opportunities to contribute technical proficiency and business thinking in a dynamic
-                environment.
+                Pursuing a Master's in Computer Science at Northeastern University. Interned at Amazon, helping scientists build flexible and scalable infrastructure for machine learning workflows. AWS Certified Solutions Architect – Associate, seeking to apply technical expertise and business acumen in a dynamic environment.
             </p>
             <p>
                 The Internet has bridged the gap once insurmountable and shared invaluable information available.
